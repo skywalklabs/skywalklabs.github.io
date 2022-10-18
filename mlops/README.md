@@ -1,1 +1,1 @@
-public facing url for docs and lucidchart integration
+public facing url for docs and figma integration
